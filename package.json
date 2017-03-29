@@ -1,0 +1,20 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple boilerplate of an empty react app with steps as commits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skdkim/react-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skdkim/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/skdkim/react-boilerplate#readme"
+}
