@@ -13,6 +13,8 @@ cmd: npm init --save
 ### How:
 npm install --save (type a bunch of modules here)
 #### Suggested modules for starters:
+
+```
 webpack
 webpack-dev-server
 react
@@ -26,7 +28,7 @@ style-loader
 file-loader
 sass-loader
 node-sass
-
+```
 ## Step 3: Add Scripts to package.json
 
 ### How:
@@ -42,6 +44,10 @@ into the scripts object here
     "test": "echo \"Error: no test specified\" && exit 1"
 }
 ```
+
+### NOTE:
+If you are adding hot reloading at a later time be sure you add the scripts AFTER you install the modules
+
 ## Step 4: Create a .gitignore file
 
 ### How:
